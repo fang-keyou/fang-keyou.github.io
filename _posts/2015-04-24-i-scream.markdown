@@ -2,7 +2,7 @@
 title:  "I try"
 subtitle: "But do you scream?"
 author: "Fang Keyou"
-avatar: "img/authors/fk.png"
+avatar: "img/authors/fk.jpg"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
