@@ -1,7 +1,7 @@
 # Site settings
 title: Fang Keyou’s blog
-description: Fang Keyou’s blog
-keywords: Fang Keyou’s blog
+description: Fang Keyou's blog
+keywords: Fang Keyou's blog
 author: Fang Keyou
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
