@@ -1,0 +1,11 @@
+---
+title:  "Eating Snake"
+subtitle: "Javascript"
+author: "Fang Keyou"
+avatar: "img/authors/fk.png"
+image: "img/a.jpg"
+date:   2018-12-19 12:12:12
+---
+
+[![](https://s1.ax1x.com/2018/06/15/CjqR4P.png)]()
+
